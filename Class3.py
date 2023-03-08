@@ -32,3 +32,5 @@ print(total_loan)
 
 # Primitive Data type => string,int,float,bool
 # Sequence data type/data structures => list,tuple,set,dictionary
+
+print("doing changes in class3")
